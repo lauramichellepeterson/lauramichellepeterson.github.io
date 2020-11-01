@@ -6,5 +6,4 @@ Web development project for refactoring and optimizing basic HTML and CSS for ac
 **Original working repo:**
 https://github.com/lauramichellepeterson/lauramichellepeterson.github.io-challenge_1
 
-![Challenge-1-screenshot](/images/Challenge-1-screenshot.png)
-Format: ![Alt Text](url)
+![Challenge-1-screenshot](/Challenge-1/assets/images/images/Challenge-1-screenshot.png)
